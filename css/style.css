@@ -2,14 +2,12 @@
    width:515px;
    float: right;
    height:500px;
-
  }
 
 .container {
   width: 100;
   font-size: 15px;
   font-family: "Verdana";
-
 }
 
 .jumbotron{
@@ -21,7 +19,9 @@ padding:30px;
 
 .container footer{
   text-align: center;
+  padding-top: 100px;
 }
 
-
+.container row{
+padding-top:500px;
 }
