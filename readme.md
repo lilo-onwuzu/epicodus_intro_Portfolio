@@ -1,12 +1,12 @@
-# _{Programming Portfolio}_
+# _Programming Portfolio_
 
-#### _{Brief description of application}, {03.18.2016}_
+#### _Web Application Portfolio Showing My Software Projects, 03.18.2016_
 
-#### By _**{Ililochi Onwuzu}**_
+#### By _**Ililochi Onwuzu**_
 
 ## Description
 
-_{Epicodus Technical Vocational Program. Introduction to Programming.. Level One. Project One. GIT,HTML and CSS}_
+_Epicodus Technical Vocational Program. Introduction to Programming. Level One. Project One. GIT,HTML and CSS_
 
 ## Setup/Installation Requirements
 
@@ -16,18 +16,18 @@ _{Epicodus Technical Vocational Program. Introduction to Programming.. Level One
 
 ## Known Bugs
 
-_{None}_
+_None_
 
 ## Support and contact details
 
-_{Email:lpr422@gmail.com}_
+_Email:lpr422@gmail.com_
 
 ## Technologies Used
 
-_{HTML, CSS, Javascript, Bootstrap}_
+_HTML, CSS, Javascript, Bootstrap_
 
 ### License
 
-*{This software is licensed under the MIT license.}*
+*This software is licensed under the MIT license.*
 
-Copyright (c) 2016 **_{Onwuzu LPO, Inc.}_**
+Copyright (c) 2016 **_Onwuzu LPO, Inc._**
