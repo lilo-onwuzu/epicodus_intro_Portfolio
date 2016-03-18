@@ -1,0 +1,27 @@
+ .resize {
+   width:515px;
+   float: right;
+   height:500px;
+
+ }
+
+.container {
+  width: 100;
+  font-size: 15px;
+  font-family: "Verdana";
+
+}
+
+.jumbotron{
+background-color: gold;
+margin: 50px;
+padding:30px;
+
+}
+
+.container footer{
+  text-align: center;
+}
+
+
+}
