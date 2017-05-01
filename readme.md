@@ -2,10 +2,8 @@
 
 ## _Title_
 	Epicodus- Introduction to Programming - Porfolio Page
-
 #### _Creator_
-	Lilo Onwuzu
-  
+	Lilo Onwuzu 
 #### _Date_
 	03.18.2016
 
