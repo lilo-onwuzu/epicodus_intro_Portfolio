@@ -1,36 +1,31 @@
-# _Programming Portfolio_
-
-#### _Web Application Portfolio Showing My Software Projects, 03.18.2016_
-
-#### By _**Ililochi Onwuzu**_
-
-## Description
-
-_Epicodus Technical Vocational Program. Introduction to Programming. Level One. Project One. GIT,HTML and CSS_
-
-## Setup/Installation Requirements
-
-* _Clone this repository before setting up_
 
 
+## _Title_
+	Epicodus- Introduction to Programming - Porfolio Page
 
-## Known Bugs
+#### _Creator_
+	Lilo Onwuzu
+  
+#### _Date_
+	03.18.2016
 
-_None_
+#### _Description_
+	Static HTML webpage with custom CSS and Bootstrap CSS styling 
 
-## Support and contact details
+#### _Setup/Installation Requirements_
+	Clone this repository before setting up
 
-_Email:lpr422@gmail.com_
+#### _Known Bugs_
+ 	None
 
-## Technologies Used
+#### _Support and contact details_
+	lpr422@gmail.com
+	
+#### _Technologies Used_
+	HTML, Custom CSS, Bootstrap CSS, Google API Fonts
 
-_HTML, CSS, Javascript, Bootstrap_
-
-### License
-
-*This software is licensed under the MIT license.*
-
-Copyright (c) 2016 **_Onwuzu LPO, Inc._**
+#### _License_
+	*This software is licensed under the MIT license.*
+	Copyright (c) 2016 **_Onwuzu LPO, Inc._**
 
 
-### Link to Website: http://lilo-onwuzu.github.io/lilo_projectone/
