@@ -2,8 +2,10 @@
 
 ## _Title_
 	Epicodus- Introduction to Programming - Porfolio Page
+	
 #### _Creator_
 	Lilo Onwuzu 
+	
 #### _Date_
 	03.18.2016
 
@@ -23,7 +25,7 @@
 	HTML, Custom CSS, Bootstrap CSS, Google API Fonts
 
 #### _License_
-	*This software is licensed under the MIT license.*
-	Copyright (c) 2016 **_Onwuzu LPO, Inc._**
+	This software is licensed under the MIT license
+	Copyright (c) 2016 IPONWUZU
 
 
