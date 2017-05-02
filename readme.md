@@ -13,7 +13,8 @@
 	Static HTML webpage with custom CSS and Bootstrap CSS styling 
 
 #### _Setup/Installation Requirements_
-	Clone this repository before setting up
+	Clone this repository
+	Open index.html file in browser
 
 #### _Known Bugs_
  	None
